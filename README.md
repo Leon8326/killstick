@@ -1,5 +1,5 @@
 # Killstick
-Weird utils to try.
+Weird utils to try on a USB flash.
 ## !! DISCLAMER !!
 Please do NOT use this to do "bad" stuff.
 
